@@ -1,3 +1,7 @@
+This is an update to the original README file.  This is first_app.
+
+
+
 == Welcome to Rails
 
 Rails is a web-application framework that includes everything needed to create
