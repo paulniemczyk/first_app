@@ -1,6 +1,11 @@
 This is an update to the original README file.  This is first_app.
 
 
+** Exploratory App **
+
+This is an exploratory app in Ruby on Rails. 
+Original rails intro text is below.
+
 
 == Welcome to Rails
 
